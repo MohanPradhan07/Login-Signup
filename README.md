@@ -1,13 +1,13 @@
 # Login-Signup MERN Application
 
-A full-stack **MERN (MongoDB, Express, React, Node.js)** authentication system that provides secure **User Registration and Login** functionality using **JWT authentication**.
+A full-stack **MERN (MongoDB, Express, React, Node.js)** authentication system that provides secure **User Registration and Login** functionality using **JWT (JSON Web Token)** authentication.
 
 ---
 
 ## 🚀 Features
 
-- User Signup with validation
-- User Login with JWT authentication
+- User signup with validation
+- User login with JWT authentication
 - Password encryption using bcrypt
 - Protected routes using middleware
 - Token-based authentication
@@ -34,5 +34,21 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** authentication system t
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Frontend (Vercel):**  
+https://loginsignup-ten.vercel.app/
+
+---
+
+## 👨‍💻 Author
+
+**Mohan Pradhan**
+
+- 📧 Email: pradhanmohan058@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohan-pradhan-32a980334/  
+- 🐙 GitHub: https://github.com/MohanPradhan07/
+
+---
 
 
