@@ -29,7 +29,7 @@ function Home() {
         return;
       }
 
-      const response = await fetch("http://localhost:8080/products", {
+      const response = await fetch("https://login-signup-y2m9.onrender.com/products", {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,
