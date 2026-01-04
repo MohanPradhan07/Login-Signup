@@ -29,7 +29,7 @@ function Home() {
         return;
       }
 
-      const response = await fetch("login-signup-two-pink.vercel.app/products", {
+      const response = await fetch("http://localhost:8080/products", {
         method: "GET",
         headers: {
           Authorization: `Bearer ${token}`,
