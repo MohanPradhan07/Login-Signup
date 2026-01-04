@@ -11,12 +11,7 @@ const PORT = process.env.PORT || 8080;
 
 app.use(express.json());
 
-app.use(
-  cors({
-    origin: "http://localhost:3000",
-    credentials: true,
-  })
-);
+app.use(cors({ origin: "*" }));
 
 app.use("/auth", AuthRouter);
 app.use("/products", ProductRouter);
