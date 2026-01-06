@@ -47,7 +47,7 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** authentication system t
 **Mohan Pradhan**
 
 - 📧 Email: pradhanmohan058@gmail.com  
-- 💼 **LinkedIn**: [mohan-pradhan-32a980334](https://www.linkedin.com/in/mohan-pradhan-32a980334/)
+- 💼 **LinkedIn**: [mohan-pradhan](https://www.linkedin.com/in/mohan-pradhan-32a980334/)
 - 🐙 **GitHub**: [MohanPradhan07](https://github.com/MohanPradhan07/)
 
 
