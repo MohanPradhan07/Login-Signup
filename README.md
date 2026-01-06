@@ -36,8 +36,10 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** authentication system t
 
 ## 🌐 Live Demo
 
-👉 **Frontend (Vercel):**  
-https://loginsignup-ten.vercel.app/
+## 🌐 Live Demo
+
+🔗 **[Live Demo](https://loginsignup-ten.vercel.app/)**
+
 
 ---
 
